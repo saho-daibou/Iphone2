@@ -2,7 +2,7 @@
 public class Iphone {
 
 	public static void main(String[] args) {
-		SmartPhone iphone = new SmartPhone();
+		SmartPhoneOld iphone = new SmartPhoneOld();
 		iphone.play();
 		iphone.stop();
 		iphone.next();
